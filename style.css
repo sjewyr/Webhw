@@ -2,3 +2,30 @@
     width: 600px;
     height: 400px;
 }
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18pt;
+    text-transform: uppercase;
+    text-align: left;
+    margin-bottom: 18pt;
+    page-break-before: always;
+    line-height: 1;
+    outline: 1pt solid;
+}
+
+h2{
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    text-transform: capitalize;
+    text-align: left;
+    margin-bottom: 12pt;
+    line-height: 20pt;
+}
+p {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 14pt;
+    text-transform: capitalize;
+    text-align: justify;
+    margin-left: 2cm;
+    line-height: 1.5;
+}
